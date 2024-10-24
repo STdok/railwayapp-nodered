@@ -12,6 +12,11 @@
         "node-red": "~3.x.x",
         "node-red-contrib-ngrok": "latest",
         "node-red-dashboard": "~3.x.x",
-        "when": "^3.7.8"
+        "when": "^3.7.8",
+        "@deepgram/sdk": "^3.9.0",    // Replace with the latest version if necessary
+      "frisbee": "^3.0.0",           // Replace with the latest version
+      "cross-fetch": "^3.0.6",       // Replace with the latest version if necessary
+      "dotenv": "^16.0.0",
+        "node-fetch": "^3.3.0" 
     }
 }
